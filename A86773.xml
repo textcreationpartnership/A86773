@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The humble petition of many peaceable citizens of London, to the Right Honourable the Lord Major, the right worshipfull the aldermen and commons of the City of London, in Common-Councell assembled.</title>
+         </titleStmt>
+         <extent>Approx. 9KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A86773</idno><idno type="EEBO-CITATION">99862130</idno>
+  <idno type="VID">160333</idno>
+  <idno type="EEBO-PROQUEST">2240940009</idno>
+  
+            <idno type="STC">Wing H3473</idno>
+            <idno type="STC">Thomason E394_17</idno>
+            <idno type="STC">ESTC R201630</idno>
+            <idno type="PROQUEST">99862130</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99862130e"/>
+            <note>(EEBO-TCP ; phase 2, no. A86773)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 160333)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 62:E394[17])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The humble petition of many peaceable citizens of London, to the Right Honourable the Lord Major, the right worshipfull the aldermen and commons of the City of London, in Common-Councell assembled.</title>
+               </titleStmt>
+               <extent>[2], 8 [i.e. 6] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Richard Cotes,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Numerous mispaginations.</note>
+                  <note>"Asking for the withdrawal of the Army to a distance of forty miles"--Thomason Catalogue.</note>
+                  <note>Annotation on Thomason copy: "June 29".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">England and Wales. --  Army --  Early works to 1800.</term>
+               <term type="corporate_name">City of London (England). --  Court of Common Council --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+               <term type="geographic_name">London (England) --  History --  17th century --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-03 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-05 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-05 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:160333:1"/>
+            <p>The humble PETITION Of many Peaceable Citizens of <hi>London,</hi> TO THE RIGHT HONOVRABLE THE Lord Major, the Right Worship<g ref="char:EOLhyphen"/>full the Aldermen and Commons of the CITY of <hi>LONDON,</hi> IN Common-Councell assembled.</p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>Richard Cotes,</hi> 1647.</p>
+         </div>
+      </front>
+      <body>
+         <div type="petition">
+            <pb facs="tcp:160333:2"/>
+            <pb n="1" facs="tcp:160333:2"/>
+            <head>TO THE RIGHT HONORABLE THE Lord Major, the Right Worshipfull the Aldermen and Commons of the City of <hi>London</hi> in Common councell assembled.</head>
+            <head type="sub">The humble Petition of many peaceable Citizens of the City of <hi>London.</hi>
+            </head>
+            <opener>Sheweth,</opener>
+            <p>
+               <seg rend="decorInit">T</seg>Hat our deep sense of the Kingdoms and this Cities neare and impending dangers will not suffer us longer to keep silence, but provokes us to renew our humble addresses to you the carefull Fathers of this Honorable City.</p>
+            <p>We hoped that the bitternesse of death was past; yet how doe we behold again with sadnesse of heart our miseries afresh returning upon us: We must needs acknowledge the just hand of God in threatening us with new calamities, as for other our iniquities, so in speciall for our breach of Covenant; That though our God have graciously performed with us in com<g ref="char:EOLhyphen"/>pleating our deliverance, yet we have refus'd to per<g ref="char:EOLunhyphen"/>forme
+<pb n="3" facs="tcp:160333:3"/>with him, whereby to give him just occasion to cause his destroying sword to enter the second time to avenge the quarrell of his broken Covenant upon our heads.</p>
+            <p>In this juncture of time we cannot but declare to all the world, that we would be so far from being the in<g ref="char:EOLhyphen"/>centives of another War, that we doe even abhor the very mention of it: &amp; doubt not but Divine vengeance will certainly find out those that shall be found fomen<g ref="char:EOLhyphen"/>ters of the same, whereby to frustrate the expected hopes of the happy enjoyment of a blessed peace, the desired fruit of all our prayers, with the expence of so much blood and wealth; The dreadfull thoughts of the ensuing miseries which must needs befall this Kingdome by such a curs'd Designe, doth make our hearts to tremble, though in the goodnesse of our God we trust, that he will blast it in the root, and bee the Rock of our salvation.</p>
+            <p>But lest we should any wayes be guilty of our own and this Kingdomes ruine through our silence and se<g ref="char:EOLhyphen"/>curity in this time of streight and exigency, we have thought fit to make this application through you the Worthy Senators of this famous City to the Parlia<g ref="char:EOLhyphen"/>ment of <hi>England,</hi> (the Ancient refuge of the oppressed in this Kingdome) and in all humility doe pray;</p>
+            <p>That you will please to become Suiters to both the Honorable Houses in your own and our names, That a solemn day bee speedily appointed to seeke Almighty God by humiliation, to turne his fierce wrath away, which threatens to consume this Land; and for his gracious blessing and direction to such a speedy and effectuall course for setling of
+<pb n="5" facs="tcp:160333:3"/>the peace and happines both of Church and State, as may hopefully put an issue to our present mise<g ref="char:EOLhyphen"/>ries, and remove our feares of future dangers.</p>
+            <p>For which end to desire, That his Royall Maje<g ref="char:EOLhyphen"/>sty may come to his Parliament in honor and safe<g ref="char:EOLhyphen"/>ty, that they may have opportunity to make unto him such addresses as may produce a happy close between him and his Parliaments of both King<g ref="char:EOLhyphen"/>domes, (the likelyest meanes under God to recon<g ref="char:EOLhyphen"/>cile our unhappy differences) that once more (to the joy of our hearts) we may see his Majesty esta<g ref="char:EOLhyphen"/>blisht again upon his Throne in peace, to rule in righteousnesse and truth.</p>
+            <p>And further to desire their honors, (for the vin<g ref="char:EOLhyphen"/>dication of this present Parliament, and satisfaction to the Kingdom) that all such as are under age, out<g ref="char:EOLhyphen"/>lawed persons, and others unduely elected, may, without delay be expel'd the Honorable House of Commons. And for future right constitution of Parliaments, and preservation of the Liberties and Rights of the people, That it may by a Law bee made fellony or treason for any of what quality or degree soever by fraud, force, feare, letters, pur<g ref="char:EOLhyphen"/>chase, promises, or by any other indirect meanes, contrary to the peoples Liberties to endeavour the election of any Knights, Citizens, or Burgesses to sit in Parliament; or for any Sheriffe, Major, or Bayliffe to retard elections, or to make delatory or undue returns: And that the issuing out of Writs for elections, may be no longer delayed for time to come.</p>
+            <p>That all arbitrary Committees throughout the
+<pb n="6" facs="tcp:160333:4"/>Kingdome may speedily be supprest.</p>
+            <p>That the Lands or Moneys bestowed on Members of either Houses of Parliament by gratuity or re<g ref="char:EOLhyphen"/>parations may be restored to the publique Trea<g ref="char:EOLhyphen"/>sury, and respited untill the publique debts of the Kingdome, especially those of the Souldiery be first satisfied; And that special care may speedily be taken for their indemnity and full discharge of their Arreares with all convenient expedition.</p>
+            <p>That power be given to the Committees of ac<g ref="char:EOLhyphen"/>counts of the Kingdome, not only to audit and in<g ref="char:EOLhyphen"/>quire into the accounts of Committees, and such as have relation thereunto, and al others as have had to do in the publike moneys, but to punish the persons they find faulty in their accounts, either corporally or otherwise, according to the nature and quality of their offences; and that if any in either of the Hono<g ref="char:EOLhyphen"/>rable Houses shall be found guilty herein, and to have defrauded the State, or shall refuse to come to their respective accounts, that then they would speedily vindicate their own honor by inflicting upon them suitable condigne punishment.</p>
+            <p>That there may be a free and interrupted course of justice according to the Law of the Land, and that all businesse determinable by Law may be thi<g ref="char:EOLhyphen"/>ther refer'd.</p>
+            <p>That all persons of what degree or condition so<g ref="char:EOLhyphen"/>ever be left subject to processe of Law for recovery of just debts.</p>
+            <p>That for the ease and benefit of the Subjects some course may be setled; whereby all actions of an inferiour nature may receive a speedy deter<g ref="char:EOLhyphen"/>mination in the respective Counties where the bu<g ref="char:EOLhyphen"/>sinesse doth depend: And</p>
+            <pb n="7" facs="tcp:160333:4"/>
+            <p>That for the ease and incouragement of Mer<g ref="char:EOLhyphen"/>chants, and benefit of trade, some speedy and effectuall way bee thought upon, and put in exe<g ref="char:EOLhyphen"/>cution for dispatching and regulating of Maritine affaires.</p>
+            <p>Thus having made knowne the substance of our desires to this Honorable Court, where in wee humbly doe intreate their mediation to the Hono<g ref="char:EOLhyphen"/>rable Houses (in which, if satisfaction shall bee given, we hope it may be a strong ingagement upon the Army peaceably to disband) we further ear<g ref="char:EOLhyphen"/>nestly doe pray.</p>
+            <p>That some effectuall provision in your wise<g ref="char:EOLhyphen"/>domes be made out of hand for security of this great City against its present threatning and ap<g ref="char:EOLhyphen"/>proaching dangers, whether from with in or from without.</p>
+            <p>And to desire, that, as the Army will make appeare to us and al the world the reality of their affections to the welfare of this populous City▪ so they would with draw 40. miles distance from the same, thereby to prevent all discontents that may arise from the scarsity or dearenesse of provision, which may occasion the putting this City into some ex<g ref="char:EOLhyphen"/>traordinary posture for their owne defence: Both which will unavoidably follow upon the continu<g ref="char:EOLhyphen"/>ances of their so <gap reason="illegible" resp="#murp" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> approach.</p>
+            <p>And that they may be desired further to mani<g ref="char:EOLhyphen"/>fest their resolutions and intentions for the peace and safety of the Kingdomes by restoring the Kings Majesties Person, and observing the Commandes
+<pb n="8" facs="tcp:160333:5"/>and directions of both the Honourable Houses of Parliament whose mutuall honors and preserva<g ref="char:EOLhyphen"/>tion in their just and lawfull Rights and Privi<g ref="char:EOLhyphen"/>ledges, we are resolvd though we bee otherwise asperst to the utmost of our power, to the hazard of our lives and fortunes, against any force or ter<g ref="char:EOLhyphen"/>rour whatsoever by Gods assistance, according to our Covenant to maintain.</p>
+            <closer>And your Petitioners shall ever pray, &amp;c.</closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
